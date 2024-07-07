@@ -89,7 +89,6 @@
 
 <p align="left">
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuele95&layout=compact&theme=default" alt=Samuele95 />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samuele95&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samuele95&theme=2077" height="180em" />
 </p>
 
@@ -100,10 +99,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samuele95&theme=2077" height="180em" />
   <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuele95&show_icons=true&locale=en&theme=" alt="Samuele95" /></p>
 </div>
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Samuele95"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Samuele95" /></a></p><br><br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
