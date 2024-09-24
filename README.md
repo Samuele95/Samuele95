@@ -4,7 +4,7 @@
 </a>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=Samuele95&label=Profile%20views&color=0e75b6&style=flat" alt="Samuele95" /> 
-<a href="mailto:samuele.stronati95@gmail.com">
+<a href="mailto:smlstr095@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a> 
 <a href="https://github.com/Samuele95" target="_blank">
