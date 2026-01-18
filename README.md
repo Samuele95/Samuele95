@@ -31,7 +31,7 @@
 I build **intelligent AI systems** and explore how software works at its deepest level—from **LLM architectures** to **compiler internals** to **binary analysis**. My work spans the full spectrum of computer science: making machines understand language, whether that's natural language through AI or programming languages through compilers.
 
 ```python
-class SamueleEsposito:
+class Samuele95:
     def __init__(self):
         self.role = "AI Engineer & Systems Researcher"
         self.education = "MSc AI & Robotics @ UniCam"
