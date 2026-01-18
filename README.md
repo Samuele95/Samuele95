@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samuele95&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Neurosymbolic%20AI%20%7C%20Languages%20%26%20Compilers%20%7C%20Binary%20Analysis&descSize=18&descAlignY=52"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samuele95&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Neurosymbolic%20AI%20|%20Languages%20|%20Compilers%20|%20Binary%20Analysis&descSize=18&descAlignY=52"/>
 
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&height=50&lines=Neurosymbolic+AI+%26+Reasoning+Systems;Context+Engineering+%26+LLM+Research;Compilers%2C+VMs+%26+Formal+Language+Theory;Malware+Analysis+%26+Binary+Reverse+Engineering;Interdisciplinary+Research)](https://git.io/typing-svg)
