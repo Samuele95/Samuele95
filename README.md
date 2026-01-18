@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samuele95&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Neurosymbolic%20AI%20%7C%20Languages%20%26%20Compilers%20%7C%20Binary%20Analysis&descSize=18&descAlignY=52"/>
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&height=50&lines=Neurosymbolic+AI+%26+Reasoning+Systems;Context+Engineering+%26+LLM+Research;Compilers%2C+VMs+%26+Formal+Language+Theory;Malware+Analysis+%26+Binary+Reverse+Engineering;Interdisciplinary+Research+%F0%9F%94%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&height=50&lines=Neurosymbolic+AI+%26+Reasoning+Systems;Context+Engineering+%26+LLM+Research;Compilers%2C+VMs+%26+Formal+Language+Theory;Malware+Analysis+%26+Binary+Reverse+Engineering;Interdisciplinary+Research)](https://git.io/typing-svg)
 
 <!-- SOCIAL BADGES -->
 <p>
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://samuele95.github.io">
-    <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/>
   </a>
   <a href="https://github.com/Samuele95">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -23,11 +23,6 @@
 </div>
 
 ---
-
-<!-- ABOUT -->
-<table>
-<tr>
-<td width="60%">
 
 ## 🧠 About Me
 
@@ -43,76 +38,38 @@ class Samuele95:
         self.research = {
             "neurosymbolic_ai": ["Reasoning Systems", "Context Engineering",
                                  "LLM Cognition", "Symbolic-Neural Integration"],
-            "languages": ["Compilers", "Type Theory", "VMs",
-                          "Formal Semantics"],
-            "binary": ["Malware Analysis", "Reverse Engineering",
-                       "Binary Understanding"]
+            "languages": ["Compilers", "Type Theory", "VMs", "Formal Semantics"],
+            "binary": ["Malware Analysis", "Reverse Engineering", "Binary Understanding"]
         }
 
-        self.foundations = [
-            "Mathematics", "Cognitive Science", "Neuroscience",
-            "Psychology", "Sociology", "Critical Theory"
-        ]
+        self.foundations = ["Mathematics", "Cognitive Science", "Neuroscience",
+                           "Psychology", "Sociology", "Critical Theory"]
 
     def philosophy(self):
         return "The deepest insights emerge at disciplinary boundaries"
 ```
 
-</td>
-<td width="40%" align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="120"/>
-
-**Research Focus**
-
-`Neurosymbolic AI`
-`Reasoning & Cognition`
-`Context Engineering`
-`Compilers & VMs`
-`Formal Language Theory`
-`Binary Analysis`
+**Research Focus:** `Neurosymbolic AI` · `Reasoning & Cognition` · `Context Engineering` · `Compilers & VMs` · `Formal Language Theory` · `Binary Analysis`
 
 **Deep Math Lover** ∞
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 ## 🎯 Research Areas
 
-<table>
-<tr>
-<td align="center" width="33%">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="55"/>
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="45"/> | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="45"/> | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="45"/> |
+|:---:|:---:|:---:|
+| **Neurosymbolic AI** | **Languages & Compilers** | **Malware & Binary Analysis** |
+| Investigating reasoning mechanisms in LLMs through context engineering. Exploring symbolic-neural integration. | Formal language theory, type systems, VMs, and the mathematical foundations of computation. | Static/dynamic analysis, reverse engineering, program behavior at the lowest level. |
+| *How do machines think?* | *How do we translate intent into execution?* | *Where intent meets implementation.* |
 
-**Neurosymbolic AI**
-
-Investigating reasoning mechanisms in LLMs through context engineering. Exploring symbolic-neural integration and cognitive architectures. *How do machines think?*
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="55"/>
-
-**Languages & Compilers**
-
-Formal language theory, type systems, VMs, and the mathematical foundations of computation. *How do we translate intent into execution?*
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="55"/>
-
-**Malware & Binary Analysis**
-
-Static/dynamic analysis, reverse engineering, program behavior at the lowest abstraction level. *Where intent meets implementation.*
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -120,36 +77,24 @@ Static/dynamic analysis, reverse engineering, program behavior at the lowest abs
 
 I believe the most profound insights emerge at the boundaries between disciplines. My research integrates:
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 📐 Mathematics & Formal Theory
-The rigorous foundations underpinning all computational systems — type theory, category theory, formal verification, and proof systems.
+| 📐 **Mathematics & Formal Theory** | 🧬 **Cognitive Science & Neuroscience** |
+|:---|:---|
+| Type theory, category theory, formal verification, proof systems — the rigorous foundations of computation. | How do humans reason, form concepts, and construct mental models? Biological intelligence illuminates artificial intelligence. |
 
-### 🧬 Cognitive Science & Neuroscience
-Understanding biological intelligence illuminates artificial intelligence. How do humans reason, form concepts, and construct mental models?
+| 🧠 **Psychology & Decision-Making** | ⚖️ **Law & Ethics** |
+|:---|:---|
+| Cognitive and investigative psychology — rational choice theory, cognitive biases, uncertainty processing. | Legal reasoning informs rule-based systems, precedent, interpretation, and AI governance. |
 
-### 🧠 Psychology & Decision-Making
-Cognitive and investigative psychology — rational choice theory, cognitive biases, and how agents process uncertainty.
+</div>
 
-</td>
-<td width="50%">
-
-### 📚 Sociology & Critical Theory
-Criminal sociology and social theory through:
+**📚 Sociology & Critical Theory** — Criminal sociology and social theory through:
 - **Foucault** — Power structures & knowledge systems
 - **Bentham & the Panopticon** — Surveillance & control
 - **Weber** — Rationalization & bureaucratic reasoning
 - **Le Bon** — Crowd psychology & collective behavior
 - **Malatesta** — Anarchist theory & decentralized organization
-
-### ⚖️ Law & Ethics
-Legal reasoning informs rule-based systems, precedent, interpretation, and AI governance.
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -158,99 +103,54 @@ Legal reasoning informs rule-based systems, precedent, interpretation, and AI go
 <div align="center">
 
 ```
-                            ┌─────────────────────┐
-                            │   NEUROSYMBOLIC AI  │
-                            │  Reasoning Systems  │
-                            │ Context Engineering │
-                            └──────────┬──────────┘
-                                       │
-                   ┌───────────────────┼───────────────────┐
-                   │                   │                   │
-                   ▼                   ▼                   ▼
-        ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐
-        │   MATHEMATICS   │  │   COGNITIVE     │  │     SOCIAL      │
-        │   Type Theory   │  │    SCIENCE      │  │     THEORY      │
-        │ Formal Systems  │  │  Neuroscience   │  │   Psychology    │
-        └────────┬────────┘  └────────┬────────┘  └────────┬────────┘
-                 │                    │                    │
-                 └────────────────────┼────────────────────┘
-                                      │
-          ┌───────────────────────────┼───────────────────────────┐
-          │                           │                           │
-          ▼                           ▼                           ▼
-┌─────────────────────┐   ┌─────────────────────┐   ┌─────────────────────┐
-│     COMPILERS       │   │   BINARY ANALYSIS   │   │    AI COGNITION     │
-│    & LANGUAGES      │◄──┤   Reverse Eng.      │──►│   LLM Reasoning     │
-│   Formal Semantics  │   │   Low-level Truth   │   │  Context Windows    │
-└─────────────────────┘   └─────────────────────┘   └─────────────────────┘
+                    NEUROSYMBOLIC AI
+                   Reasoning Systems
+                  Context Engineering
+                          |
+         +----------------+----------------+
+         |                |                |
+         v                v                v
+    MATHEMATICS      COGNITIVE         SOCIAL
+    Type Theory       SCIENCE          THEORY
+   Formal Systems   Neuroscience      Psychology
+         |                |                |
+         +----------------+----------------+
+                          |
+         +----------------+----------------+
+         |                |                |
+         v                v                v
+     COMPILERS       BINARY           AI COGNITION
+    & LANGUAGES     ANALYSIS         LLM Reasoning
+   Formal Semantics  Reverse Eng.   Context Windows
 ```
 
 </div>
 
-- **Neurosymbolic AI** bridges formal symbolic systems with neural learning — compiler precision meets cognitive pattern recognition
-- **Context Engineering** mirrors how humans construct meaning through contextual frames — cognitive psychology meets LLM architecture
-- **Binary Analysis** requires understanding both formal semantics (what code *means*) and adversarial psychology (what authors *intended*)
-- **Compiler Design** embodies the transformation of human cognitive structures into machine-executable form
+- **Neurosymbolic AI** bridges formal symbolic systems with neural learning
+- **Context Engineering** mirrors how humans construct meaning through contextual frames
+- **Binary Analysis** requires understanding both formal semantics and adversarial psychology
+- **Compiler Design** embodies the transformation of human cognitive structures into machine execution
 
 ---
 
-## 🔬 Compilers, Interpreters & Virtual Machines
+## 🔬 Compilers, Interpreters & VMs
 
-<table>
-<tr>
-<td width="65%">
-
-### Language Implementation
-
-**Compilation Pipeline**
+**Compilation Pipeline:**
 - **Lexical Analysis** — Tokenization, finite automata (Flex)
 - **Parsing** — LL/LR parsers, AST construction (Bison, ANTLR)
 - **Semantic Analysis** — Type checking, symbol tables
 - **Code Generation** — IR design, optimization passes
 - **Runtime Systems** — Memory management, GC, JIT
 
-**Virtual Machine Architecture**
+**Virtual Machine Architecture:**
 - Stack-based and register-based VM design
 - Bytecode instruction sets and encoding
 - Built **LC3VM** — Complete LC3 virtual machine
 
-**Language Design**
+**Language Design:**
 - Formal grammar specification (BNF/EBNF)
 - Type system design and implementation
 - Built **Logo4J** — Logo language interpreter
-
-</td>
-<td width="35%" align="center">
-
-```
-┌─────────────────────┐
-│    Source Code      │
-└──────────┬──────────┘
-           ▼
-┌─────────────────────┐
-│   Lexical Analysis  │
-└──────────┬──────────┘
-           ▼
-┌─────────────────────┐
-│      Parsing        │
-└──────────┬──────────┘
-           ▼
-┌─────────────────────┐
-│  Semantic Analysis  │
-└──────────┬──────────┘
-           ▼
-┌─────────────────────┐
-│  Code Generation    │
-└──────────┬──────────┘
-           ▼
-┌─────────────────────┐
-│  Virtual Machine    │
-└─────────────────────┘
-```
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -266,32 +166,13 @@ Legal reasoning informs rule-based systems, precedent, interpretation, and AI go
 
 ## 🔍 Malware & Binary Analysis
 
-<table>
-<tr>
-<td width="50%">
-
-### Static Analysis
-
-- **PE/ELF Analysis** — Headers, sections, imports
-- **Disassembly** — x86/x64 with Ghidra & IDA Pro
-- **Pattern Recognition** — Packers, crypters, signatures
-- **YARA Rules** — Detection signature authoring
-- **AI-Assisted** — LLMs for code understanding
-
-</td>
-<td width="50%">
-
-### Dynamic Analysis & Forensics
-
-- **Sandboxing** — Isolated execution environments
-- **API Monitoring** — System call tracking
-- **Memory Forensics** — Volatility, artifact extraction
-- **Injection Detection** — Hollowing, hooking analysis
-- **Protocol RE** — Understanding proprietary protocols
-
-</td>
-</tr>
-</table>
+| **Static Analysis** | **Dynamic Analysis & Forensics** |
+|:---|:---|
+| PE/ELF Analysis — Headers, sections, imports | Sandboxing — Isolated execution environments |
+| Disassembly — x86/x64 with Ghidra & IDA Pro | API Monitoring — System call tracking |
+| Pattern Recognition — Packers, crypters, signatures | Memory Forensics — Volatility, artifact extraction |
+| YARA Rules — Detection signature authoring | Injection Detection — Hollowing, hooking analysis |
+| AI-Assisted — LLMs for code understanding | Protocol RE — Understanding proprietary protocols |
 
 <div align="center">
 
@@ -309,7 +190,7 @@ Legal reasoning informs rule-based systems, precedent, interpretation, and AI go
 
 <div align="center">
 
-### 🤖 AI & Neurosymbolic Research
+**🤖 AI & Neurosymbolic Research**
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -380,8 +261,6 @@ Legal reasoning informs rule-based systems, precedent, interpretation, and AI go
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samuele95&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Samuele95&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
 
 ---
@@ -398,7 +277,7 @@ Legal reasoning informs rule-based systems, precedent, interpretation, and AI go
   <img src="https://img.shields.io/badge/Let's_Talk-70A5FD?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Talk"/>
 </a>
 <a href="https://samuele95.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
