@@ -1,102 +1,211 @@
-<p align="center">
-<a href="https://github.com/Samuele95">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=110&lines=Samuele95;MSc+Student+%7C+Software+Engineer+%7C+Theoretical CS;AI+%7C+Computer+Vision+%7C+Multi-Agent Systems;Compilers+%7C+Interpreters" alt="Typing SVG" />
-</a>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=Samuele95&label=Profile%20views&color=0e75b6&style=flat" alt="Samuele95" /> 
-<a href="mailto:smlstr095@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a> 
-<a href="https://github.com/Samuele95" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-</a>
-<br/> 
+<!-- HEADER -->
+<div align="center">
 
-<!-- <a href="https://github.com/Samuele95">
-    <img src="https://github-readme-stats.vercel.app/api?username=Samuele95&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
-</a> -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&height=100&lines=Samuele95;AI+%26+Context+Engineering;Malware+Analysis+%7C+Reverse+Engineering;Agentic+AI+%26+LLM+Systems)](https://git.io/typing-svg)
 
-<a href="https://github.com/Samuele95">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Samuele95&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
-
+<!-- SOCIAL BADGES -->
+<p>
+  <a href="mailto:smlstr095@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Samuele95">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Samuele95&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </p>
 
-* 📖 MSc Student in Computer Science - Artificial Intelligence and Robotics @ [Universita degli Studi di Camerino](https://computerscience.unicam.it/laurea-magistrale-computer-science). 
-
-* 🎓 Particularly interested in Multi-Agent Systems (MAS), Machine Learning and AI in general
-
-* 💻 Developing models for Open Source Intelligence and Resources Categorization based on **Neural Networks**
-
-* 💻 Developing predictive MAS-based simulations
-
-* 💻 Developing compilers, interpreters and translators for special-purpose languages
-
-### 🖥️ Open-Source Projects
-<table>
-<tr><th>Machine Learning </th><th>Virtual Machines, Compilers, Translators</th></tr>
-<tr><td>
-  
-|Title | Stars | Technologies|
-|--|--|--|
-| [WebCat](https://github.com/Samuele95/WebCat) | <img alt="Stars" src="https://img.shields.io/github/stars/Samuele95/WebCat?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) <br> ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django) ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) ![Solara](https://img.shields.io/badge/Solara-black?style=flat-square&logo=solara)|
-| [Parkinson Repast Kit Model](https://github.com/Samuele95/parkinson-repast-kit) | <img alt="Stars" src="https://img.shields.io/github/stars/Samuele95/parkinson-repast-kit?style=flat-square&labelColor=black"/> | ![Repast Simphony](https://img.shields.io/badge/RepastSimphony-black?style=flat-square) ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)| 
-
-
-</td><td>
-
-|Title | Stars | Technologies|
-|--|--|--|
-| [LC3VM](https://github.com/Samuele95/LC3VM) | <img alt="Stars" src="https://img.shields.io/github/stars/Samuele95/LC3VM?style=flat-square&labelColor=black"/> | ![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c) ![Flex](https://img.shields.io/badge/Flex-black?style=flat-square&logo=gnu) <br> ![Bison](https://img.shields.io/badge/Bison-black?style=flat-square&logo=gnu) |
-| [Logo4J](https://github.com/Samuele95/Logo4J) | <img alt="Stars" src="https://img.shields.io/github/stars/Samuele95/Logo4j?style=flat-square&labelColor=black"/> | ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) ![Gradle](https://img.shields.io/badge/Gradle-black?style=flat-square&logo=gradle) |
-
-</td></tr> </table>
-
-</td></tr> </table>
-
-</div><h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/Haskell-Logo.svg" alt="Haskell" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/scala-original.svg" alt="Scala" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/springio-icon.svg" alt="Spring" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/django.svg" alt="Django" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-<img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="Opencv" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
-
-<p align="left">
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuele95&layout=compact&theme=default" alt=Samuele95 />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samuele95&theme=2077" height="180em" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">Statistics</h3>
-<div align="left">
-<a href="https://github.com/Samuele95">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samuele95&theme=2077" height="180em" />
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
+
+<!-- ABOUT ME -->
+## About Me
+
+I'm an MSc student specializing in **Artificial Intelligence & Robotics**, passionate about building intelligent systems and understanding how software works at its deepest level. My work bridges **AI/ML research**, **security analysis**, and **systems programming**.
+
+<table>
+  <tr>
+    <td>🎓</td>
+    <td><strong>MSc Computer Science</strong> (AI & Robotics) @ <a href="https://computerscience.unicam.it/laurea-magistrale-computer-science">Universita degli Studi di Camerino</a></td>
+  </tr>
+</table>
+
+### Current Focus
+
+| | Area | Description |
+|---|---|---|
+| 🧠 | **Context Engineering** | Building intelligent AI systems with advanced prompt architectures |
+| 🤖 | **Agentic AI & LLMs** | Multi-agent orchestration, RAG systems, AI pipelines |
+| 🛡️ | **Malware Analysis** | Static & dynamic analysis, reverse engineering, memory forensics |
+| 🔐 | **Security Research** | Binary analysis, cryptography, threat intelligence |
+
+---
+
+<!-- FEATURED PROJECTS -->
+## Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Samuele95/WebCat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samuele95&repo=WebCat&theme=tokyonight&hide_border=true" alt="WebCat"/>
+</a>
+<a href="https://github.com/Samuele95/LC3VM">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samuele95&repo=LC3VM&theme=tokyonight&hide_border=true" alt="LC3VM"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/Samuele95/parkinson-repast-kit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samuele95&repo=parkinson-repast-kit&theme=tokyonight&hide_border=true" alt="Parkinson Repast Kit"/>
+</a>
+<a href="https://github.com/Samuele95/mapyreduce">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samuele95&repo=mapyreduce&theme=tokyonight&hide_border=true" alt="mapyreduce"/>
+</a>
+
+</div>
+
+---
+
+<!-- TECH STACK -->
+## Tech Stack
+
+<details open>
+<summary><b>🤖 Agentic AI & LLMs</b></summary>
+<br>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+<br>
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4A90A4?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🛡️ Malware Analysis & Security</b></summary>
+<br>
+
+![Ghidra](https://img.shields.io/badge/Ghidra-BF0A30?style=flat-square&logo=ghidra&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-4B275F?style=flat-square&logoColor=white)
+![x64dbg](https://img.shields.io/badge/x64dbg-2C2C2C?style=flat-square&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-00979D?style=flat-square&logoColor=white)
+<br>
+![Volatility](https://img.shields.io/badge/Volatility-1A1A2E?style=flat-square&logoColor=white)
+![WinDbg](https://img.shields.io/badge/WinDbg-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Process Monitor](https://img.shields.io/badge/ProcMon-0078D4?style=flat-square&logo=windows&logoColor=white)
+<br>
+![REMnux](https://img.shields.io/badge/REMnux-292929?style=flat-square&logo=linux&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly_(x86/x64)-6E4C13?style=flat-square&logoColor=white)
+![PE Analysis](https://img.shields.io/badge/PE_Analysis-FF6B35?style=flat-square&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-2C3E50?style=flat-square&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🧠 AI & Machine Learning</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+<br>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+</details>
+
+<details>
+<summary><b>⚙️ Systems & Languages</b></summary>
+<br>
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🌐 Web & Backend</b></summary>
+<br>
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🔧 Tools</b></summary>
+<br>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</details>
+
+---
+
+<!-- GITHUB STATS -->
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuele95&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuele95&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samuele95&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+### Let's Connect
+
+*Interested in collaborating on AI research, security analysis, or agentic systems? Let's talk!*
+
+<a href="mailto:smlstr095@gmail.com">
+  <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with curiosity and code</sub>
+</div>
