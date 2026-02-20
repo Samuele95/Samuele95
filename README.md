@@ -1,21 +1,24 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samuele95&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Neurosymbolic%20AI%20|%20Languages%20|%20Compilers%20|%20Binary%20Analysis&descSize=18&descAlignY=52"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samuele95&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=NEOS%20Creator%20|%20Neurosymbolic%20AI%20|%20Languages%20%26%20Compilers%20|%20Binary%20Analysis&descSize=18&descAlignY=52"/>
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&height=50&lines=Neurosymbolic+AI+%26+Reasoning+Systems;Context+Engineering+%26+LLM+Research;Compilers%2C+VMs+%26+Formal+Language+Theory;Malware+Analysis+%26+Binary+Reverse+Engineering;Interdisciplinary+Research)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&height=50&lines=NEOS+%E2%80%94+The+OS+for+Machine+Intelligence;Neurosymbolic+AI+%26+Reasoning+Systems;Context+Engineering+%26+LLM+Research;Compilers%2C+VMs+%26+Formal+Language+Theory;Malware+Analysis+%26+Binary+Reverse+Engineering)](https://git.io/typing-svg)
 
 <!-- SOCIAL BADGES -->
 <p>
+  <a href="https://samuele95.github.io/papers/neos/">
+    <img src="https://img.shields.io/badge/📄_NEOS_Paper-ffd700?style=for-the-badge&logoColor=black" alt="NEOS Paper"/>
+  </a>
+  <a href="https://github.com/Samuele95/neos">
+    <img src="https://img.shields.io/badge/NEOS_Repo-7b61ff?style=for-the-badge&logo=github&logoColor=white" alt="NEOS"/>
+  </a>
   <a href="mailto:smlstr095@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://samuele95.github.io">
     <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://github.com/Samuele95">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Samuele95&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </p>
@@ -24,9 +27,50 @@
 
 ---
 
+## Ψ Flagship Project: NEOS
+
+<div align="center">
+
+> *"The last operating system will not manage files. It will manage meaning."*
+
+<a href="https://github.com/Samuele95/neos">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samuele95&repo=neos&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffd700&icon_color=7b61ff" alt="NEOS"/>
+</a>
+
+**NEOS** — the **Neural Field Operating System** — treats an LLM as a virtual machine and runs structured cognitive processes on it. No binaries. No file systems. Just meaning, dynamics, and reasoning.
+
+`Neural Fields` · `Symbolic Reasoning` · `Quantum Semantics` · `Observable Cognition`
+
+[![Read the Paper](https://img.shields.io/badge/📄_Read_the_Paper-ffd700?style=for-the-badge&logoColor=black)](https://samuele95.github.io/papers/neos/)
+[![View Presentation](https://img.shields.io/badge/🎬_Presentation-ff3d8e?style=for-the-badge&logoColor=white)](https://samuele95.github.io/papers/neos/)
+
+</div>
+
+**Why NEOS matters:** Current AI agents are opaque, fragile, and undebugable. NEOS makes reasoning **observable** — you can watch a thought form, decay, resonate, and collapse into insight. It's the JVM moment for intelligence: *"Think once, reason anywhere."*
+
+<details>
+<summary><b>Key Results — Software Quality Case Study</b></summary>
+
+| Metric | Value |
+|--------|-------|
+| Patterns injected | 69 |
+| Dynamics cycles | 52 |
+| Final coherence | 0.993 |
+| Eigenvectors extracted | 5 |
+| Attractor basins formed | 7 |
+| Expelled (Singleton) | 1 |
+
+The system **autonomously discovered** that SOLID principles decompose into field eigenvectors, and that the Singleton pattern doesn't belong — an emergent insight, not a programmed rule.
+
+**Universal Invariant Ψ:** *"What something MEANS persists; how it WORKS changes."*
+
+</details>
+
+---
+
 ## 🧠 About Me
 
-I'm an **interdisciplinary researcher** exploring how intelligent systems reason — from the symbolic structures of compilers to the emergent cognition of LLMs. My work seeks convergence between **Neurosymbolic AI**, **Programming Language Theory**, and **Binary Analysis**, drawing from mathematics, cognitive science, and social theory.
+I'm an **interdisciplinary researcher** exploring how intelligent systems reason — from the symbolic structures of compilers to the emergent cognition of LLMs. NEOS is the convergence of everything I've worked on: compilers, VMs, formal semantics, neurosymbolic AI, and cognitive science — unified into a single operating system for machine intelligence.
 
 ```python
 class Samuele95:
@@ -34,6 +78,7 @@ class Samuele95:
         self.role = "Interdisciplinary AI Researcher"
         self.education = "MSc AI & Robotics @ UniCam"
         self.core_question = "How do intelligent systems reason?"
+        self.flagship = "NEOS — the Operating System for Machine Intelligence"
 
         self.research = {
             "neurosymbolic_ai": ["Reasoning Systems", "Context Engineering",
@@ -51,7 +96,7 @@ class Samuele95:
 
 <div align="center">
 
-**Research Focus:** `Neurosymbolic AI` · `Reasoning & Cognition` · `Context Engineering` · `Compilers & VMs` · `Formal Language Theory` · `Binary Analysis`
+**Research Focus:** `NEOS` · `Neurosymbolic AI` · `Reasoning & Cognition` · `Context Engineering` · `Compilers & VMs` · `Formal Language Theory` · `Binary Analysis`
 
 **Deep Math Lover** ∞
 
@@ -66,7 +111,7 @@ class Samuele95:
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="45"/> | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="45"/> | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="45"/> |
 |:---:|:---:|:---:|
 | **Neurosymbolic AI** | **Languages & Compilers** | **Malware & Binary Analysis** |
-| Investigating reasoning mechanisms in LLMs through context engineering. Exploring symbolic-neural integration. | Formal language theory, type systems, VMs, and the mathematical foundations of computation. | Static/dynamic analysis, reverse engineering, program behavior at the lowest level. |
+| Investigating reasoning mechanisms in LLMs through context engineering. Exploring symbolic-neural integration. **→ NEOS** | Formal language theory, type systems, VMs, and the mathematical foundations of computation. **→ NEOS VM** | Static/dynamic analysis, reverse engineering, program behavior at the lowest level. |
 | *How do machines think?* | *How do we translate intent into execution?* | *Where intent meets implementation.* |
 
 </div>
@@ -98,7 +143,7 @@ I believe the most profound insights emerge at the boundaries between discipline
 
 ---
 
-## 🌐 The Convergence
+## 🌐 The Convergence → NEOS
 
 <div align="center">
 
@@ -122,14 +167,25 @@ I believe the most profound insights emerge at the boundaries between discipline
      COMPILERS       BINARY           AI COGNITION
     & LANGUAGES     ANALYSIS         LLM Reasoning
    Formal Semantics  Reverse Eng.   Context Windows
+         |                |                |
+         +----------------+----------------+
+                          |
+                          v
+                  ╔═══════════════╗
+                  ║     NEOS      ║
+                  ║  Neural Field ║
+                  ║ Operating Sys ║
+                  ╚═══════════════╝
 ```
 
 </div>
 
-- **Neurosymbolic AI** bridges formal symbolic systems with neural learning
-- **Context Engineering** mirrors how humans construct meaning through contextual frames
-- **Binary Analysis** requires understanding both formal semantics and adversarial psychology
-- **Compiler Design** embodies the transformation of human cognitive structures into machine execution
+Every research thread converges into **NEOS**:
+- **Neurosymbolic AI** → Neural fields as the substrate for meaning
+- **Context Engineering** → The LLM as a virtual machine running cognitive processes
+- **Compilers & VMs** → The JVM parallel: "Think once, reason anywhere"
+- **Binary Analysis** → Understanding systems at every level of abstraction
+- **Cognitive Science** → Observable reasoning — you can debug a thought
 
 ---
 
@@ -146,6 +202,7 @@ I believe the most profound insights emerge at the boundaries between discipline
 - Stack-based and register-based VM design
 - Bytecode instruction sets and encoding
 - Built **LC3VM** — Complete LC3 virtual machine
+- Built **NEOS** — LLM as a cognitive virtual machine
 
 **Language Design:**
 - Formal grammar specification (BNF/EBNF)
@@ -234,16 +291,20 @@ I believe the most profound insights emerge at the boundaries between discipline
 
 <div align="center">
 
+<a href="https://github.com/Samuele95/neos">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samuele95&repo=neos&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffd700&icon_color=7b61ff" alt="NEOS"/>
+</a>
 <a href="https://github.com/Samuele95/WebCat">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samuele95&repo=WebCat&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="WebCat"/>
 </a>
+
 <a href="https://github.com/Samuele95/LC3VM">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samuele95&repo=LC3VM&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="LC3VM"/>
 </a>
-
 <a href="https://github.com/Samuele95/Logo4J">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samuele95&repo=Logo4J&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Logo4J"/>
 </a>
+
 <a href="https://github.com/Samuele95/parkinson-repast-kit">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samuele95&repo=parkinson-repast-kit&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Parkinson Repast Kit"/>
 </a>
