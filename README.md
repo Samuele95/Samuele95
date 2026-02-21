@@ -85,8 +85,9 @@ class Samuele95:
 
 `Neural Fields` · `Symbolic Reasoning` · `Quantum Semantics` · `Observable Cognition`
 
-[![Read the Paper](https://img.shields.io/badge/📄_Read_the_Paper-ffd700?style=for-the-badge&logoColor=black)](https://samuele95.github.io/papers/neos/)
-[![View Presentation](https://img.shields.io/badge/🎬_Presentation-ff3d8e?style=for-the-badge&logoColor=white)](https://samuele95.github.io/papers/neos/presentation.html)
+[![Paper](https://img.shields.io/badge/📄_Paper-ffd700?style=for-the-badge&logoColor=black)](https://samuele95.github.io/neos/neos-paper.pdf)
+[![Website](https://img.shields.io/badge/🌐_Website-00d4ff?style=for-the-badge&logoColor=black)](https://samuele95.github.io/neos/NEOS-BREAKTHROUGH.html)
+[![Presentation](https://img.shields.io/badge/🎬_Presentation-ff3d8e?style=for-the-badge&logoColor=white)](https://samuele95.github.io/neos/NEOS-PRESENTATION.html)
 
 </div>
 
