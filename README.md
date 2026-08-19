@@ -68,12 +68,12 @@ source.
 | **[Logo4J](https://github.com/Samuele95/Logo4J)** | Logo language interpreter in Java, as both a GUI and a console application. |
 | **[WebCat](https://github.com/Samuele95/WebCat)** | Automated discovery and classification of website content through unsupervised learning. |
 | **[DMS](https://github.com/Samuele95/dms)** | Drive Malware Scan: malware detection and forensic analysis for Tsurugi Linux. |
-| **[computational-fields](https://github.com/Samuele95/computational-fields)** | Interactive simulator for aggregate computing and self-organising programs: field calculus, building blocks, and real-time visualisation. |
-| **[drone-rescue-SAR](https://github.com/Samuele95/drone-rescue-SAR)** | Stigmergic multi-drone search & rescue on ROS 2 and Gazebo: pheromone-guided coverage, victim fusion, and task auctioning. |
+| **[Computational Fields](https://github.com/Samuele95/computational-fields)** | Interactive simulator for aggregate computing and self-organising programs: field calculus, building blocks, and real-time visualisation. |
+| **[Drone Rescue SAR](https://github.com/Samuele95/drone-rescue-SAR)** | Stigmergic multi-drone search & rescue on ROS 2 and Gazebo: pheromone-guided coverage, victim fusion, and task auctioning. |
 | **[NEOS](https://github.com/Samuele95/neos)** | Neural Field Operating System: a shell-like command interface for running simulated neural field dynamics on an LLM as a virtual machine. |
-| **[rcc-simulator](https://github.com/Samuele95/rcc-renal-cell-carcinoma-simulator)** | Agent-based model of renal cell carcinoma with glucose sensing, sex-stratified treatment response, and Bayesian optimization. |
-| **[parkinson-repast-kit](https://github.com/Samuele95/parkinson-repast-kit)** | Multi-agent based model simulating Parkinson's disease in Repast Simphony. |
-| **[mapyreduce](https://github.com/Samuele95/mapyreduce)** | Lightweight, extensible library for MapReduce-like jobs in Python. |
+| **[RCC Simulator](https://github.com/Samuele95/rcc-renal-cell-carcinoma-simulator)** | Agent-based model of renal cell carcinoma with glucose sensing, sex-stratified treatment response, and Bayesian optimization. |
+| **[Parkinson Repast Kit](https://github.com/Samuele95/parkinson-repast-kit)** | Multi-agent based model simulating Parkinson's disease in Repast Simphony. |
+| **[MapyReduce](https://github.com/Samuele95/mapyreduce)** | Lightweight, extensible library for MapReduce-like jobs in Python. |
 
 ## Tools
 
