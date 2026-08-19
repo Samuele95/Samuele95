@@ -1,12 +1,11 @@
-# Samuele95
-
-*Interdisciplinary researcher — neurosymbolic AI, languages and compilers,
-binary analysis.*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img alt="Samuele95 — neurosymbolic AI, languages and compilers, binary analysis" src="assets/banner-light.png">
+</picture>
 
 [![Website](https://img.shields.io/badge/samuele95.github.io-ff7a2f?style=flat-square)](https://samuele95.github.io)
 [![Email](https://img.shields.io/badge/smlstr095%40gmail.com-4a4550?style=flat-square)](mailto:smlstr095@gmail.com)
-
----
+[![Prometheus](https://img.shields.io/badge/flagship-Prometheus-4a4550?style=flat-square)](https://github.com/Samuele95/prometheus)
 
 ## About
 
@@ -32,37 +31,30 @@ working model of rule-based inference under ambiguity.
 
 ## Research
 
-**Neurosymbolic AI** — Reasoning mechanisms in LLMs, context engineering, and
-the integration of symbolic structure with neural learning. The interest is
-less in scaling models than in the machinery that makes their conclusions
-inspectable. *How do machines think?*
-
-**Languages & Compilers** — Formal language theory, type systems, virtual
-machine architecture, and the mathematical foundations of computation. From
-lexing and parsing through IR design to runtime systems and bytecode.
-*How do we translate intent into execution?*
-
-**Malware & Binary Analysis** — Static and dynamic analysis, reverse
-engineering, and program behaviour at the lowest level: PE/ELF internals,
-disassembly, detection signatures, and memory forensics.
-*Where intent meets implementation.*
+|  | Area | Question |
+|:--|:--|:--|
+| **01** | **Neurosymbolic AI**<br>Reasoning mechanisms in LLMs, context engineering, and the integration of symbolic structure with neural learning. Less about scaling models than about the machinery that makes their conclusions inspectable. | *How do machines think?* |
+| **02** | **Languages & Compilers**<br>Formal language theory, type systems, virtual machine architecture, and the mathematical foundations of computation — from lexing and parsing through IR design to runtime systems and bytecode. | *How do we translate intent into execution?* |
+| **03** | **Malware & Binary Analysis**<br>Static and dynamic analysis, reverse engineering, and program behaviour at the lowest level: PE/ELF internals, disassembly, detection signatures, and memory forensics. | *Where intent meets implementation.* |
 
 ## Prometheus
+
+> **A prompt is an operator, not a key.** You don't retrieve the right answer by
+> finding magic words — you construct it, section by justified section, the way
+> you build a circuit.
 
 **[Prometheus](https://github.com/Samuele95/prometheus)** is a build-time
 meta-prompting framework for LLM agents: you describe an intent, and it
 engineers the artifact end to end — a system prompt, a full agentic loop, or a
-multi-step workflow. Its stance is that a prompt is an *operator, not a key* —
-you don't retrieve the right answer by finding magic words, you construct it
-section by justified section, the way you build a circuit. It works across
-seven structural prompt shapes and three modes: build from scratch, refactor an
-existing artifact, or manage a deployed agent through a MAPE-K loop that runs
-between runs and never sits in the request path. Every artifact it produces
-ships with a runnable verifier, defined over three layers — static properties
-of the artifact, single-run properties of one output, and cross-run properties
-visible only across many, which is where agent regressions hide. It runs
-entirely at build time, with no build step and no dependencies, and every
-technique is traced to a primary source.
+multi-step workflow. It works across seven structural prompt shapes and three
+modes: build from scratch, refactor an existing artifact, or manage a deployed
+agent through a MAPE-K loop that runs between runs and never sits in the
+request path. Every artifact it produces ships with a runnable verifier,
+defined over three layers — static properties of the artifact, single-run
+properties of one output, and cross-run properties visible only across many,
+which is where agent regressions hide. It runs entirely at build time, with no
+build step and no dependencies, and every technique is traced to a primary
+source.
 
 [Repository](https://github.com/Samuele95/prometheus) ·
 [Website](https://samuele95.github.io/prometheus/) ·
@@ -70,35 +62,18 @@ technique is traced to a primary source.
 
 ## Selected projects
 
-Compilers and virtual machines, unsupervised learning, forensics, and
-agent-based simulation — roughly in that order of how long they have been
-interesting to me.
-
-- **[LC3VM](https://github.com/Samuele95/LC3VM)** — A complete LC-3 virtual
-  machine in C, with a simple operating system.
-- **[Logo4J](https://github.com/Samuele95/Logo4J)** — Logo language interpreter
-  in Java, as both a GUI and a console application.
-- **[WebCat](https://github.com/Samuele95/WebCat)** — Automated discovery and
-  classification of website content through unsupervised learning.
-- **[DMS](https://github.com/Samuele95/dms)** — Drive Malware Scan: malware
-  detection and forensic analysis for Tsurugi Linux.
-- **[computational-fields](https://github.com/Samuele95/computational-fields)**
-  — Interactive simulator for aggregate computing and self-organising programs:
-  field calculus, building blocks, and real-time visualisation.
-- **[drone-rescue-SAR](https://github.com/Samuele95/drone-rescue-SAR)** —
-  Stigmergic multi-drone search & rescue on ROS 2 and Gazebo: pheromone-guided
-  coverage, victim fusion, task auctioning, and reproducible headless
-  benchmarking.
-- **[NEOS](https://github.com/Samuele95/neos)** — Neural Field Operating
-  System: a shell-like command interface for running simulated neural field
-  dynamics on an LLM as a virtual machine.
-- **[rcc-renal-cell-carcinoma-simulator](https://github.com/Samuele95/rcc-renal-cell-carcinoma-simulator)**
-  — Agent-based model of renal cell carcinoma with glucose sensing,
-  sex-stratified treatment response, and Bayesian optimization.
-- **[parkinson-repast-kit](https://github.com/Samuele95/parkinson-repast-kit)**
-  — Multi-agent based model simulating Parkinson's disease in Repast Simphony.
-- **[mapyreduce](https://github.com/Samuele95/mapyreduce)** — Lightweight,
-  extensible library for MapReduce-like jobs in Python.
+| Project | What it is |
+|:--|:--|
+| **[LC3VM](https://github.com/Samuele95/LC3VM)** | A complete LC-3 virtual machine in C, with a simple operating system. |
+| **[Logo4J](https://github.com/Samuele95/Logo4J)** | Logo language interpreter in Java, as both a GUI and a console application. |
+| **[WebCat](https://github.com/Samuele95/WebCat)** | Automated discovery and classification of website content through unsupervised learning. |
+| **[DMS](https://github.com/Samuele95/dms)** | Drive Malware Scan: malware detection and forensic analysis for Tsurugi Linux. |
+| **[computational-fields](https://github.com/Samuele95/computational-fields)** | Interactive simulator for aggregate computing and self-organising programs: field calculus, building blocks, and real-time visualisation. |
+| **[drone-rescue-SAR](https://github.com/Samuele95/drone-rescue-SAR)** | Stigmergic multi-drone search & rescue on ROS 2 and Gazebo: pheromone-guided coverage, victim fusion, and task auctioning. |
+| **[NEOS](https://github.com/Samuele95/neos)** | Neural Field Operating System: a shell-like command interface for running simulated neural field dynamics on an LLM as a virtual machine. |
+| **[rcc-simulator](https://github.com/Samuele95/rcc-renal-cell-carcinoma-simulator)** | Agent-based model of renal cell carcinoma with glucose sensing, sex-stratified treatment response, and Bayesian optimization. |
+| **[parkinson-repast-kit](https://github.com/Samuele95/parkinson-repast-kit)** | Multi-agent based model simulating Parkinson's disease in Repast Simphony. |
+| **[mapyreduce](https://github.com/Samuele95/mapyreduce)** | Lightweight, extensible library for MapReduce-like jobs in Python. |
 
 ## Tools
 
