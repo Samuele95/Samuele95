@@ -3,9 +3,10 @@
   <img alt="Samuele95 — neurosymbolic AI, languages and compilers, binary analysis" src="assets/banner-light.png">
 </picture>
 
-[![Website](https://img.shields.io/badge/samuele95.github.io-ff7a2f?style=flat-square)](https://samuele95.github.io)
-[![Email](https://img.shields.io/badge/smlstr095%40gmail.com-4a4550?style=flat-square)](mailto:smlstr095@gmail.com)
-[![Prometheus](https://img.shields.io/badge/flagship-Prometheus-4a4550?style=flat-square)](https://github.com/Samuele95/prometheus)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.png">
+  <img alt="samuele95@github — interdisciplinary AI researcher, MSc AI &amp; Robotics at UniCam. 18 public repositories, 38 stars, 210 commits, 13 followers, 4.8 MB of source across 16 languages, led by Python." src="assets/card-light.png">
+</picture>
 
 ## About
 
@@ -39,6 +40,8 @@ working model of rule-based inference under ambiguity.
 
 ## Prometheus
 
+<a href="https://github.com/Samuele95/prometheus"><img src="https://raw.githubusercontent.com/Samuele95/prometheus/main/assets/banner.png" alt="Prometheus — prompts as operators" width="100%"></a>
+
 > **A prompt is an operator, not a key.** You don't retrieve the right answer by
 > finding magic words — you construct it, section by justified section, the way
 > you build a circuit.
@@ -47,14 +50,25 @@ working model of rule-based inference under ambiguity.
 meta-prompting framework for LLM agents: you describe an intent, and it
 engineers the artifact end to end — a system prompt, a full agentic loop, or a
 multi-step workflow. It works across seven structural prompt shapes and three
-modes: build from scratch, refactor an existing artifact, or manage a deployed
-agent through a MAPE-K loop that runs between runs and never sits in the
-request path. Every artifact it produces ships with a runnable verifier,
-defined over three layers — static properties of the artifact, single-run
-properties of one output, and cross-run properties visible only across many,
-which is where agent regressions hide. It runs entirely at build time, with no
-build step and no dependencies, and every technique is traced to a primary
-source.
+modes, and every artifact it produces ships with a runnable verifier defined
+over three layers — static properties of the artifact, single-run properties of
+one output, and cross-run properties visible only across many, which is where
+agent regressions hide. It runs entirely at build time, with no build step and
+no dependencies, and every technique is traced to a primary source.
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+  <a href="https://github.com/Samuele95/prometheus#three-modes"><img src="https://raw.githubusercontent.com/Samuele95/prometheus/main/assets/card-01.png" alt="Three modes: from-scratch, refactor, manage"></a>
+</td>
+<td width="33%" valign="top" align="center">
+  <a href="https://github.com/Samuele95/prometheus#the-fabrication-cycle"><img src="https://raw.githubusercontent.com/Samuele95/prometheus/main/assets/card-02.png" alt="Six phases: shape, interview, draft, audit, score, deliver"></a>
+</td>
+<td width="33%" valign="top" align="center">
+  <a href="https://github.com/Samuele95/prometheus#verification"><img src="https://raw.githubusercontent.com/Samuele95/prometheus/main/assets/card-03.png" alt="Always verified: static, single-run, cross-run"></a>
+</td>
+</tr>
+</table>
 
 [Repository](https://github.com/Samuele95/prometheus) ·
 [Website](https://samuele95.github.io/prometheus/) ·
@@ -62,18 +76,20 @@ source.
 
 ## Selected projects
 
-| Project | What it is |
-|:--|:--|
-| **[LC3VM](https://github.com/Samuele95/LC3VM)** | A complete LC-3 virtual machine in C, with a simple operating system. |
-| **[Logo4J](https://github.com/Samuele95/Logo4J)** | Logo language interpreter in Java, as both a GUI and a console application. |
-| **[WebCat](https://github.com/Samuele95/WebCat)** | Automated discovery and classification of website content through unsupervised learning. |
-| **[DMS](https://github.com/Samuele95/dms)** | Drive Malware Scan: malware detection and forensic analysis for Tsurugi Linux. |
-| **[Computational Fields](https://github.com/Samuele95/computational-fields)** | Interactive simulator for aggregate computing and self-organising programs: field calculus, building blocks, and real-time visualisation. |
-| **[Drone Rescue SAR](https://github.com/Samuele95/drone-rescue-SAR)** | Stigmergic multi-drone search & rescue on ROS 2 and Gazebo: pheromone-guided coverage, victim fusion, and task auctioning. |
-| **[NEOS](https://github.com/Samuele95/neos)** | Neural Field Operating System: a shell-like command interface for running simulated neural field dynamics on an LLM as a virtual machine. |
-| **[RCC Simulator](https://github.com/Samuele95/rcc-renal-cell-carcinoma-simulator)** | Agent-based model of renal cell carcinoma with glucose sensing, sex-stratified treatment response, and Bayesian optimization. |
-| **[Parkinson Repast Kit](https://github.com/Samuele95/parkinson-repast-kit)** | Multi-agent based model simulating Parkinson's disease in Repast Simphony. |
-| **[MapyReduce](https://github.com/Samuele95/mapyreduce)** | Lightweight, extensible library for MapReduce-like jobs in Python. |
+Ordered by stars. Counts are live.
+
+| Project | What it is | Language | Stars |
+|:--|:--|:--|:--|
+| **[LC3VM](https://github.com/Samuele95/LC3VM)** | A complete LC-3 virtual machine in C, with a simple operating system. | C | [![](https://img.shields.io/github/stars/Samuele95/LC3VM?style=flat-square&label=%E2%98%85&color=ff7a2f&labelColor=4a4550)](https://github.com/Samuele95/LC3VM/stargazers) |
+| **[WebCat](https://github.com/Samuele95/WebCat)** | Automated discovery and classification of website content through unsupervised learning. | Python | [![](https://img.shields.io/github/stars/Samuele95/WebCat?style=flat-square&label=%E2%98%85&color=ff7a2f&labelColor=4a4550)](https://github.com/Samuele95/WebCat/stargazers) |
+| **[Computational Fields](https://github.com/Samuele95/computational-fields)** | Interactive simulator for aggregate computing and self-organising programs: field calculus, building blocks, real-time visualisation. | Python | [![](https://img.shields.io/github/stars/Samuele95/computational-fields?style=flat-square&label=%E2%98%85&color=ff7a2f&labelColor=4a4550)](https://github.com/Samuele95/computational-fields/stargazers) |
+| **[MapyReduce](https://github.com/Samuele95/mapyreduce)** | Lightweight, extensible library for MapReduce-like jobs in Python. | Python | [![](https://img.shields.io/github/stars/Samuele95/mapyreduce?style=flat-square&label=%E2%98%85&color=ff7a2f&labelColor=4a4550)](https://github.com/Samuele95/mapyreduce/stargazers) |
+| **[Logo4J](https://github.com/Samuele95/Logo4J)** | Logo language interpreter in Java, as both a GUI and a console application. | Java | [![](https://img.shields.io/github/stars/Samuele95/Logo4J?style=flat-square&label=%E2%98%85&color=ff7a2f&labelColor=4a4550)](https://github.com/Samuele95/Logo4J/stargazers) |
+| **[RCC Simulator](https://github.com/Samuele95/rcc-renal-cell-carcinoma-simulator)** | Agent-based model of renal cell carcinoma with glucose sensing, sex-stratified treatment response, and Bayesian optimization. | Python | [![](https://img.shields.io/github/stars/Samuele95/rcc-renal-cell-carcinoma-simulator?style=flat-square&label=%E2%98%85&color=ff7a2f&labelColor=4a4550)](https://github.com/Samuele95/rcc-renal-cell-carcinoma-simulator/stargazers) |
+| **[NEOS](https://github.com/Samuele95/neos)** | Neural Field Operating System: a shell-like command interface for running simulated neural field dynamics on an LLM as a virtual machine. | HTML | [![](https://img.shields.io/github/stars/Samuele95/neos?style=flat-square&label=%E2%98%85&color=ff7a2f&labelColor=4a4550)](https://github.com/Samuele95/neos/stargazers) |
+| **[DMS](https://github.com/Samuele95/dms)** | Drive Malware Scan: malware detection and forensic analysis for Tsurugi Linux. | Shell | [![](https://img.shields.io/github/stars/Samuele95/dms?style=flat-square&label=%E2%98%85&color=ff7a2f&labelColor=4a4550)](https://github.com/Samuele95/dms/stargazers) |
+| **[Parkinson Repast Kit](https://github.com/Samuele95/parkinson-repast-kit)** | Multi-agent based model simulating Parkinson's disease in Repast Simphony. | Java | [![](https://img.shields.io/github/stars/Samuele95/parkinson-repast-kit?style=flat-square&label=%E2%98%85&color=ff7a2f&labelColor=4a4550)](https://github.com/Samuele95/parkinson-repast-kit/stargazers) |
+| **[Drone Rescue SAR](https://github.com/Samuele95/drone-rescue-SAR)** | Stigmergic multi-drone search & rescue on ROS 2 and Gazebo: pheromone-guided coverage, victim fusion, task auctioning. | Python | [![](https://img.shields.io/github/stars/Samuele95/drone-rescue-SAR?style=flat-square&label=%E2%98%85&color=ff7a2f&labelColor=4a4550)](https://github.com/Samuele95/drone-rescue-SAR/stargazers) |
 
 ## Tools
 
